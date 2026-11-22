@@ -1,4 +1,4 @@
-# Structural Size Index (SSI)
+# Structural Size Index
 
 This repository contains the extraction pipeline, dataset, and analysis notebooks for the Structural Size Index (SSI). 
 
