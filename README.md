@@ -9,7 +9,7 @@ This repository holds the extraction pipeline, datasets, notebooks, and analysis
 ├── Notebook/        Notebooks for the original study (feature extraction, SSI, RQ1 to RQ4)
 ├── Datasets/        CSV datasets, raw and derived
 ├── Results/         Result tables of the original study
-├── Scripts/         Python scripts for the extended analyses of the journal version
+├── Scripts/         Python scripts for the extended analyses
 ├── requirements.txt Python dependencies
 └── README.md
 ```
